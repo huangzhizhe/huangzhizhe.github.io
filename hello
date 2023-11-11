@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>
@@ -6,8 +6,6 @@ hello 黄智哲
 </title>
 </head>
 <body>
-<p>
 你好 世界
-</p>
 </body>
 </html>
